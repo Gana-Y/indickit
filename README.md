@@ -166,6 +166,7 @@ python examples/quickstart.py
 
 | Repository | Description | Domain |
 | :--- | :--- | :--- |
+| 🧪 [**promptunit**](https://github.com/Gana-Y/promptunit) | Pytest-native unit tests for LLM prompts, chains & agents with replay caching & fluent assertions. | `AI Evals / Prompt Testing` |
 | 🏦 [**bankstmt**](https://github.com/Gana-Y/bankstmt) | 100% offline Indian bank statement PDF converter to clean CSV/JSON/Excel with row-by-row balance checks. | `FinTech / PDF Parser` |
 | 🚀 [**Florix_AI**](https://github.com/Gana-Y/Florix_AI) | Production-grade multimodal AI study platform with in-database RAG and adaptive spaced repetition. | `Full-Stack RAG / AI` |
 | ⚡ [**vesper-engine**](https://github.com/Gana-Y/vesper-engine) | High-performance sandboxed code execution engine & 7-state POSIX arbiter with Linux cgroups v2. | `Systems / Sandbox` |
